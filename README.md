@@ -54,13 +54,14 @@ A specific type of vehicle.
 
 So every LLM is Gen AI, but not all Gen AI are LLMs.
 
-📦 Differences Table
-Feature	Gen AI	LLM
-Scope	Broad	Narrow
-Focus	Creates any content	Creates text only
-Includes	Image, video, music models	Text-based models only
-Examples	DALL·E, Midjourney, RunwayML	GPT-4, LLaMA, Claude
-Architecture	GANs, Diffusion, Transformers	Transformers only
+| Feature      | Gen AI                        | LLM                    |
+| ------------ | ----------------------------- | ---------------------- |
+| Scope        | Broad                         | Narrow                 |
+| Focus        | Creates any content           | Creates text only      |
+| Includes     | Image, video, music models    | Text-based models only |
+| Examples     | DALL·E, Midjourney, RunwayML  | GPT-4, LLaMA, Claude   |
+| Architecture | GANs, Diffusion, Transformers | Transformers only      |
+
 
 
 
