@@ -6,7 +6,9 @@
 
 
 
-
+LLM = Large Language Model
+A Large Language Model (LLM) is an advanced type of Artificial Intelligence (AI) designed to understand, generate, and process human language.
+Models like ChatGPT, GPT-4, GPT-5, Google Gemini, LLaMA, Claude are all LLMs.
 
 
 
