@@ -62,7 +62,7 @@ So every LLM is Gen AI, but not all Gen AI are LLMs.
 | Examples     | DALL·E, Midjourney, RunwayML  | GPT-4, LLaMA, Claude   |
 | Architecture | GANs, Diffusion, Transformers | Transformers only      |
 
-
+GPT (Generative Pre=Trained Transformer) 
 
 
 
