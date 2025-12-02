@@ -77,8 +77,19 @@ Ex:
 | **Anthropic Claude 3 Opus** | text + images                |
 | **LLaVA**                   | text + images                |
 
+How chatgpt produces answer after the prompt?
 
+Summary of the Full Pipeline
+---------------------------
+You type a question
+Message sent to OpenAI servers
+Converted into tokens
+Model processes tokens using neural network
+Predicts next token repeatedly
+Converts tokens back to text
+Sends answer to your screen
 
+Prompt → Tokenizer → GPT Model → Next-token predictions → Detokenizer → Output Text
 
 
 
