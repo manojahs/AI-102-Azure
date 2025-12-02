@@ -64,6 +64,18 @@ So every LLM is Gen AI, but not all Gen AI are LLMs.
 
 GPT (Generative Pre=Trained Transformer) 
 
+Multi model LLM
+----------------
+A Multimodal LLM (also called Multimodal Large Language Model) is an AI model that can understand and generate multiple types of data, not just text.
+A Multimodal LLM is an AI model that can process and combine multiple input types like text, images, audio, video, and more — all in one single model.
+
+Ex:
+| Model                       | Modes Supported              |
+| --------------------------- | ---------------------------- |
+| **GPT-4o / GPT-5**          | text + image + audio + video |
+| **Google Gemini**           | text + image + audio + video |
+| **Anthropic Claude 3 Opus** | text + images                |
+| **LLaVA**                   | text + images                |
 
 
 
