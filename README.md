@@ -92,8 +92,9 @@ Sends answer to your screen
 Prompt → Tokenizer → GPT Model → Next-token predictions → Detokenizer → Output Text
 
 
-
-
+Azure AI Foundry
+-----------------
+A unified workspace to create Gen AI apps using Azure OpenAI, LLMs, prompt engineering, model fine-tuning, RAG, vector databases, and AI agents.
 
 
 
