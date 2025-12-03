@@ -96,7 +96,14 @@ Azure AI Foundry
 -----------------
 A unified workspace to create Gen AI apps using Azure OpenAI, LLMs, prompt engineering, model fine-tuning, RAG, vector databases, and AI agents.
 
+In Microsoft Azure, a SKU stands for Stock Keeping Unit. It’s a term used to identify a specific version or configuration of an Azure resource or service.
 
+In practical terms, an Azure SKU defines things like:
+
+Performance tier (for example, Basic, Standard, Premium)
+Capacity (for example, number of cores, memory size, storage size)
+Pricing model (for example, Pay-As-You-Go, Reserved Instance)
+Feature set (for example, redundancy options, networking features)
 
 
 
